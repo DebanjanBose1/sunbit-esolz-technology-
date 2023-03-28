@@ -1,0 +1,253 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.navbar .imgg-1 img {
+  width: 150px;
+}
+.section-1 {
+  margin-top: 100px;
+}
+.col-2 img {
+  width: 411px;
+  height: 600px;
+}
+.section-1 .row .col-1 .black {
+  font-size: 70px !important;
+  font-weight: bold;
+}
+.section-1 .row .col-1 .black {
+  font-size: 50px !important;
+}
+.section-1 .row .col-1 .blue {
+  font-size: 50px !important;
+  font-weight: bold;
+  color: #3155a5;
+}
+.col-1 p {
+  padding-top: 15px;
+  font-size: 16px;
+  color: rgb(25, 25, 25);
+  line-height: 1.5;
+  width: 524px;
+  height: 133px;
+  z-index: 90;
+}
+button.btn {
+  width: 130px;
+  height: 50px;
+  border-radius: 50px;
+  background-color: #fdb913;
+  font-size: 15px;
+  font-weight: bold;
+}
+.col-2 {
+  position: relative;
+}
+.col-2 .img-1 img {
+  z-index: -1;
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  top: -92px;
+  left: -113px;
+}
+.col-2 .img-2 img {
+  z-index: -1;
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  top: 357px;
+  left: 253px;
+}
+.main-img {
+  z-index: 1;
+}
+.Rounded_Rectangle_2_copy {
+  margin-top: 100px;
+  margin-right: 20px;
+  margin-left: 28px;
+  margin-bottom: 10px;
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 10px 45px 0px rgba(0, 0, 0, 0.1);
+  /* position: absolute; */
+  /* left: 625px;
+    top: 1019px; */
+  width: 300px;
+  height: 236px;
+  z-index: 76;
+}
+.second-part h1 {
+  padding-top: 20px;
+  font-weight: bold;
+  font-size: 15px;
+}
+.second-part p {
+  text-align: center;
+  /* width: 200px; */
+  /* padding-left: 5px;
+  padding-right: 5px; */
+  font-size: 13px;
+  font-weight: bold;
+}
+.first-part {
+  padding-top: 15px;
+}
+.bold {
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 15px;
+  margin-bottom: 100px;
+}
+.main-img-1 img {
+  padding-left: 25px;
+  width: 636px;
+  height: 530px;
+}
+.section-3 .row .col-1 .black {
+  font-size: 60px !important;
+  font-weight: bold;
+}
+/* .section-3 .row .col-1 .black {
+  font-size: 50px !important;
+} */
+.section-3 .row .col-1 .blue {
+  font-size: 60px !important;
+  padding-right: 5px;
+  font-weight: bold;
+  color: #3155a5;
+}
+.products-services {
+  width: 600px;
+}
+.products-services span {
+  font-size: 15px;
+  font-weight: bold;
+}
+.products-services .col-sm-6 {
+  padding-top: 12px;
+}
+.section-3 button {
+  font-size: 15px;
+  margin-top: 25px;
+  margin-left: 15px;
+}
+.numbers {
+  margin-top: 80px;
+  margin-bottom: 20px;
+  color: rgb(0, 0, 0);
+  font-weight: bolder;
+  z-index: 57;
+}
+.numbers h1 {
+  overflow-y: hidden;
+  font-size: 72px;
+  background: -webkit-linear-gradient(#f5921d, #c4700a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.df p {
+  text-align: center;
+}
+.main-img-3 img {
+  z-index: 9999;
+  width: 413px;
+  height: 460px;
+  overflow-y: hidden;
+}
+.row .col-1 .black {
+  font-size: 70px !important;
+  font-weight: bold;
+}
+.row .col-1 .black {
+  font-size: 50px !important;
+}
+.row .col-1 .blue {
+  font-size: 50px !important;
+  font-weight: bold;
+  color: #3155a5;
+}
+.section-5 {
+  margin-top: 100px;
+}
+
+.col-4 {
+  position: relative;
+}
+.col-4 .img-4 img {
+  z-index: -1;
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  top: -13px;
+  left: -3px;
+}
+.col-4 .img-3 img {
+  z-index: -1;
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  top: 173px;
+  left: 146px;
+}
+.section-5 button {
+  margin-top: 130px;
+}
+.section-6 {
+  margin-top: 120px;
+}
+
+.row .col-5 .black {
+  overflow-x: hidden;
+  text-align: center;
+  font-size: 70px !important;
+  font-weight: bold;
+}
+.row .col-5 .black {
+  font-size: 50px !important;
+}
+.row .col-5 .blue {
+  font-size: 50px !important;
+  font-weight: bold;
+  color: #3155a5;
+}
+.products-services-2 {
+  padding-top: 50px;
+  text-align: center;
+  padding-left: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.pad {
+  padding-left: 10px;
+}
+.social {
+  margin-top: 15px;
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+}
+.social a:not(:last-child) {
+  padding-right: 7px;
+}
+.sol {
+  font-weight: bold;
+  color: black;
+}
+.sol h5 {
+  font-weight: bold;
+  color: black;
+}
+.text-blue {
+  color: #3155a5;
+}
+footer a {
+  text-decoration: none;
+}
+.finale {
+  text-align: center;
+}
